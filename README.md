@@ -170,7 +170,7 @@
 
 ## About the Author
 
-# 📘 SQL Glossary Handbook | SQL Shares
+# 📘 SQL Handbook for Data Analytics, Data Engineering & Business Intelligence | SQL Shares
 
 Welcome to the **SQL Shares** repository!
 
@@ -197,7 +197,7 @@ This repository aims to:
 
 # 📚 Topics Covered
 
-The SQL Glossary Handbook includes topics such as:
+The SQL Handbook for Data Analytics, Data Engineering & Business Intelligence includes topics such as:
 
 ## SQL Fundamentals
 
